@@ -1,0 +1,5 @@
+{
+"description": "tmc2209 stepper motor driver with tle5012 Giant Magneto Resistance (GMR)-based principle. • Integrated magnetic field sensing for angle measurement.",
+"keywords": "tmc2209, tle5012",
+"fields": {}
+}
